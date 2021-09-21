@@ -197,17 +197,14 @@ h3 {
 
 /* line 131, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
 .bg-img-1 {
-  background-image: url(../img/slider/slider-img-1.jpg);
 }
 
 /* line 134, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
 .bg-img-2 {
-  background-image: url(../img/background-img/bg-img-2.jpg);
 }
 
 /* line 137, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
 .cta-bg-1 {
-  background-image: url(../img/background-img/bg-img-3.jpg);
 }
 
 /* line 142, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
@@ -296,7 +293,7 @@ h3 {
 
 /* line 211, ../../Arafath/CL/December/231. Travel-02/HTML/scss/theme-default.scss */
 .section-padding {
-  padding-top: 120px;
+  padding-top: 10px; /* was 120px*/
   padding-bottom: 120px;
 }
 
@@ -1294,17 +1291,14 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
 }
 
 /* line 4, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/banner2.png);
 }
 
 /* line 7, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .slider_bg_3 {
-  background-image: url(../img/banner/banner3.png);
 }
 
 /* line 10, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
@@ -1434,7 +1428,6 @@ h3 {
 
 /* line 105, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_slider.scss */
 .property_bg {
-  background-image: url(../img/banner/property.png);
 }
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_about.scss */
@@ -2047,22 +2040,18 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam.png);
 }
 
 /* line 4, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_2 {
-  background-image: url(../img/banner/bradcam2.png);
 }
 
 /* line 7, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_3 {
-  background-image: url(../img/banner/bradcam3.png);
 }
 
 /* line 10, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_4 {
-  background-image: url(../img/banner/bradcam4.png);
 }
 
 /* line 13, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_bradcam.scss */
@@ -2804,7 +2793,6 @@ h3 {
 
 /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
 .destination_banner_wrap {
-  background-image: url(../img/banner/destination.png);
   padding: 340px 0;
   background-size: cover;
   background-position: center center;
@@ -2966,7 +2954,6 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_newsletter.scss */
 .newletter_area {
-  background-image: url(../img/banner/newsletter.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -3345,7 +3332,6 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
 .video_bg {
-  background-image: url(../img/banner/video.png);
 }
 
 /* line 4, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_video.scss */
@@ -4641,7 +4627,6 @@ h6 {
 
 /* line 798, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_elements.scss */
 .primary-checkbox input:checked + label {
-  background: url(../img/elements/primary-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -4683,7 +4668,6 @@ h6 {
 
 /* line 835, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_elements.scss */
 .confirm-checkbox input:checked + label {
-  background: url(../img/elements/success-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -4731,7 +4715,6 @@ h6 {
 
 /* line 876, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_elements.scss */
 .disabled-checkbox input:checked + label {
-  background: url(../img/elements/disabled-check.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -4773,7 +4756,6 @@ h6 {
 
 /* line 913, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_elements.scss */
 .primary-radio input:checked + label {
-  background: url(../img/elements/primary-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -4815,7 +4797,6 @@ h6 {
 
 /* line 950, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_elements.scss */
 .confirm-radio input:checked + label {
-  background: url(../img/elements/success-radio.png) no-repeat center center/cover;
   border: none;
 }
 
@@ -4863,7 +4844,6 @@ h6 {
 
 /* line 991, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_elements.scss */
 .disabled-radio input:checked + label {
-  background: url(../img/elements/disabled-radio.png) no-repeat center center/cover;
   border: none;
 }
 
