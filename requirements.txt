@@ -4,4 +4,4 @@ fake_headers
 slugify
 django
 beautifulsoup4
-Pillow
+whitenoise
