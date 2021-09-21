@@ -6,3 +6,4 @@ django
 beautifulsoup4
 whitenoise
 Pillow
+gunicorn
