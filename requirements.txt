@@ -5,3 +5,4 @@ slugify
 django
 beautifulsoup4
 whitenoise
+Pillow
