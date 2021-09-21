@@ -1,0 +1,6 @@
+django_summernote
+requests_html
+fake_headers
+slugify
+django
+beautifulsoup4
